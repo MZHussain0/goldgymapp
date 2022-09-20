@@ -1,6 +1,6 @@
 import React from "react";
 
-import { Box, Stack, Typography, Button } from "@mui/material";
+import { Box, Typography, Button } from "@mui/material";
 
 // asset imports
 import HeroImg from "../assets/images/banner.png";
